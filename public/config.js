@@ -1,6 +1,7 @@
 window.__RUNTIME_CONFIG__ = {
   "VITE_ORDERLY_BROKER_ID": "pepr_dex",
   "VITE_ORDERLY_BROKER_NAME": "Pepr DEX",
+  "VITE_BROKER_EOA_ADDRESS": "0x7cd94b990d2d85a69ac65e8b388b2c9594b4f8a7",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "false",
   "VITE_ORDERLY_MAINNET_CHAINS": "1,900900900,56,42161,8453,10,43114,1329,80094,1514,2818,98866,2741,34443,5000,146",
@@ -19,6 +20,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Swap,Markets,Portfolio,Vaults,Rewards",
   "VITE_CUSTOM_MENUS": "",
+  "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://t.me/peprdex",
   "VITE_DISCORD_URL": "https://discord.gg/uvT7zxCUXG",
@@ -34,5 +36,6 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_AVAILABLE_LANGUAGES": "en,zh,ja,es,ko,vi,de,fr,ru,id,tr,it,pt,uk,pl,nl",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "4",
-  "VITE_TRADING_VIEW_COLOR_CONFIG": "{\"upColor\":\"#3ED399\",\"downColor\":\"#F87171\",\"pnlUpColor\":\"#3ED399\",\"pnlDownColor\":\"#F87171\",\"chartBG\":\"#131722\"}"
+  "VITE_TRADING_VIEW_COLOR_CONFIG": "{\"upColor\":\"#3ED399\",\"downColor\":\"#F87171\",\"pnlUpColor\":\"#3ED399\",\"pnlDownColor\":\"#F87171\",\"chartBG\":\"#131722\"}",
+  "VITE_ANALYTICS_SCRIPT": ""
 };
