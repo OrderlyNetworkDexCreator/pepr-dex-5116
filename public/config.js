@@ -33,7 +33,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_TWITTER_HANDLE": "@Pepr_DEX",
   "VITE_SEO_THEME_COLOR": "#8b5cf6",
   "VITE_SEO_KEYWORDS": "perpetual trading, stock market, crypto swap, crypto derivatives, 100x leverage, decentralized exchange, DEX, Bitcoin trading, Ethereum trading, Solana DEX, Arbitrum DEX, Base DEX, crypto leverage, perpetual futures, DeFi trading, spot trading, token swap, crypto exchange, decentralized perpetuals, on-chain trading, multi-chain DEX, professional crypto trading, crypto leverage trading, BTC perpetuals, ETH perpetuals, SOL trading, low fee DEX, instant crypto trading, crypto derivatives platform",
-  "VITE_AVAILABLE_LANGUAGES": "en,zh,ja,es,ko,vi,de,fr,ru,id,tr,it,pt,uk,pl,nl",
+  "VITE_AVAILABLE_LANGUAGES": "en,zh,ja,es,ko,vi,de,fr,ru,id,tr,it,pt,uk,pl,nl,tc",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "4",
   "VITE_TRADING_VIEW_COLOR_CONFIG": "{\"upColor\":\"#3ED399\",\"downColor\":\"#F87171\",\"pnlUpColor\":\"#3ED399\",\"pnlDownColor\":\"#F87171\",\"chartBG\":\"#131722\"}",
