@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "Advanced decentralized exchange for perpetual and spot trading. Trade BTC, ETH, SOL and 100x leverage across multiple chains. Low fees, instant execution, professional tools for serious traders.",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Trading,Swap,Markets,Portfolio,Vaults,Rewards,Points",
+  "VITE_ENABLED_MENUS": "Trading,Swap,Markets,Portfolio,Vaults,Rewards,Points,Campaigns",
   "VITE_CUSTOM_MENUS": "",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
